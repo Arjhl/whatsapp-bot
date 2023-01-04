@@ -1,0 +1,14 @@
+[0104/113710.727:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[0104/113711.494:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0104/114350.962:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/114355.972:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/114405.976:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/124616.340:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/124620.815:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/124620.965:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/132932.214:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/132937.224:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/132947.228:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/133007.232:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/140455.115:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0104/140508.537:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
